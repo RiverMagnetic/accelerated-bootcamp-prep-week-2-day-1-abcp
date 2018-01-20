@@ -1,4 +1,4 @@
-document[1]
+
 var document = [
   {
     tagName: "div",
