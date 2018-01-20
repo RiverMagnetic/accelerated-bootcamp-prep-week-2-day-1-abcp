@@ -1,5 +1,5 @@
 
-var document = [
+var myDocument = [
   {
     tagName: "div",
     children: [
