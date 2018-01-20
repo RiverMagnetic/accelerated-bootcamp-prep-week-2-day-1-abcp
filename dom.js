@@ -1,3 +1,5 @@
+documet[]
+
 var document = [
   {
     tagName: "div",
