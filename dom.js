@@ -1,4 +1,4 @@
-documet[]
+document[]
 
 var document = [
   {
