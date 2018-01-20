@@ -42,5 +42,4 @@ var document = [
     ]
   }
 ]
-
 document[1]
